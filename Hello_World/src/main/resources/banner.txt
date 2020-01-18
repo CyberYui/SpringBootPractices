@@ -1,0 +1,9 @@
+Spring-Boot.Version:${AnsiColor.BRIGHT_YELLOW}${spring-boot.formatted-version}
+${AnsiColor.BRIGHT_RED}Here is my own banner text~~~ Please remember these words~~~~~~maybe useful somedays XD
+${AnsiColor.BRIGHT_CYAN}   ______ __  __    ____       ______    ____           _____  ___      ___      ___    _   __   _____
+${AnsiColor.BRIGHT_CYAN}  / ____/ \ \/ /   / __ )       / ____/   / __ \         / ___/  / __ \   / __ \    /  _/   / | / /  / ____/
+${AnsiColor.BRIGHT_CYAN} / /         \  /   / __  |      / __/      / /_/ /         \__ \   / /_/ /   / /_/ /    / /    /  |/ /  / /  __
+${AnsiColor.BRIGHT_CYAN}/ /___     / /   / /_ / /    / /___     / _, _/         ___/ /  / ____/  / _, _/   _/ /    / /|  /  / /_ / /
+${AnsiColor.BRIGHT_CYAN}\____/   /_/   /_____/   /____/    /_/ |_|         /____/  /_/        /_/ |_|  /___/   /_/ |_/   \____/
+
+
