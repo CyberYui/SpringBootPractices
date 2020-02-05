@@ -1,0 +1,12 @@
+server:
+  port: 8081
+  servlet:
+    session:
+      timeout: 30
+  tomcat:
+    uri-encoding: UTF-8
+age: 19
+name: 张大宝
+personinfo:
+  name: 臭小宝
+  age: 3
