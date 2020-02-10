@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<!--添加xmlns使html文件能使用thymeleaf-->
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <!--这里是网页的名称,即标签栏显示的内容,被thymeleaf修改为了mav这个变量的属性值-->
+    <title th:text="${mav}">mav</title>
+</head>
+<body class="container">
+    <!--这里是本来写了个h1标记的mav字样,通过thymeleaf将默认的文字改成了mav这个变量的属性值-->
+    <h1 th:text="${mav}">mav</h1>
+</body>
+</html>
