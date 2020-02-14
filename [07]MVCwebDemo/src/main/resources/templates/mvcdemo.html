@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<!--Thymeleaf 模版支持-->
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+</head>
+<body>
+    <div>
+        <!--显示由控制器传递过来的实体user的值-->
+        <div th:text="${user.name}">Cyber</div>
+        <div th:text="${user.age}">222</div>
+    </div>
+</body>
+</html>
